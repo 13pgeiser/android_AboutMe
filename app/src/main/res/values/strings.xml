@@ -5,4 +5,6 @@
     <string name="bio">Hey! I\'m Pascal.
 \n\nI\'m an embedded software engineer.
 \n\nI have more than 15 years of experience in embedded software development on custom ASICs / FPGAs and passionate about computer science in general.</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
 </resources>
