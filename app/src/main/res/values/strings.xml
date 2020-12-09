@@ -2,4 +2,7 @@
     <string name="app_name">About Me</string>
     <string name="name">P. Geiser</string>
     <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hey! I\'m Pascal.
+\n\nI\'m an embedded software engineer.
+\n\nI have more than 15 years of experience in embedded software development on custom ASICs / FPGAs and passionate about computer science in general.</string>
 </resources>
